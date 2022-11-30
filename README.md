@@ -1,0 +1,3 @@
+# WhatsappClone
+
+The Whatsapp Clone project using React Native is a great way for developers to quickly create a mobile messaging app. It's a powerful platform that lets developers create an app that is similar to the popular messaging app, Whatsapp. The project utilizes React Native's powerful development tools to create a user friendly experience. It also includes an API for integrating with other services and a variety of features such as group chats, voice and video calls, and file sharing. With its easy to use interface and robust features, this project is a great option for developers looking to create a mobile messaging app.
