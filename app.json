@@ -1,0 +1,21 @@
+{
+  "name": "koko",
+  "displayName": "koko",
+  "expo": {
+    "name": "koko",
+    "slug": "koko",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "web": {
+    "build": {
+      "babel": {
+        "include": ["react-router-native"]
+      }
+    }
+  }
+}
+
+
